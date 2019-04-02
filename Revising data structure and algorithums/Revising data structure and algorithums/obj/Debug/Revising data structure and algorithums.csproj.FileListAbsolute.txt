@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\bin\Debug\Revising data structure and algorithums.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\bin\Debug\Revising data structure and algorithums.exe
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\bin\Debug\Revising data structure and algorithums.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\obj\Debug\Revising data structure and algorithums.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\obj\Debug\Revising data structure and algorithums.exe
+c:\users\hp\documents\visual studio 2017\Projects\Revising data structure and algorithums\Revising data structure and algorithums\obj\Debug\Revising data structure and algorithums.pdb
