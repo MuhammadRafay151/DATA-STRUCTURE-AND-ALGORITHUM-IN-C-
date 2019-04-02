@@ -13,7 +13,8 @@ namespace Revising_data_structure_and_algorithums
             // Program.BubbleSort();
             //Program.InsertionSort();
             //Program.Selection_Sort();
-            Program.StackArray();
+            //Program.StackArray();
+            Program.QueueArray();
         }
         //Methods for testing code
         public static void InsertionSort()
@@ -84,6 +85,18 @@ namespace Revising_data_structure_and_algorithums
                 Console.WriteLine(s1.pop());
             }
            
+        }
+        public static void QueueArray()
+        {
+            Console.WriteLine("Enter data in Queue>>>>");
+            QUEUE_ARRAY<int> q1 = new QUEUE_ARRAY<int>(5);
+            for (int i = 0; i < 5; i++)
+                q1.Enqueue(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Printing Queue Data>>>>");
+            while(q1.Count!=0)
+            {
+                Console.WriteLine(q1.Dequeue());
+            }
         }
     }
 }
