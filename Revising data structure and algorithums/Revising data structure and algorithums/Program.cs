@@ -14,7 +14,8 @@ namespace Revising_data_structure_and_algorithums
             //Program.InsertionSort();
             //Program.Selection_Sort();
             //Program.StackArray();
-            Program.QueueArray();
+            // Program.QueueArray();
+            Program.SingleLinkedList();
         }
         //Methods for testing code
         public static void InsertionSort()
@@ -97,6 +98,30 @@ namespace Revising_data_structure_and_algorithums
             {
                 Console.WriteLine(q1.Dequeue());
             }
+        }
+        public static void SingleLinkedList()
+        {
+            LinkedList<int> l1 = new LinkedList<int>();
+            //l1.AddFirst(5);
+            //l1.AddFirst(4);
+            //l1.AddFirst(3);
+            l1.AddLast(0);
+            l1.AddLast(1);
+            l1.AddLast(2);
+           // Console.WriteLine(l1.GetFirst);
+            //Console.WriteLine(l1.GetLast);
+            //l1.DeleteLast();
+            //l1.DeleteLast();
+            //l1.DeleteLast();
+            //l1.DeleteFirst();
+            //l1.DeleteFirst();
+            //l1.DeleteFirst();
+            int[] array = l1.ToArray();
+            foreach (int i in array)
+            {
+                Console.WriteLine(i);
+            }
+
         }
     }
 }
