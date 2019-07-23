@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\bin\Debug\DataStructuresFinalPaper.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\bin\Debug\DataStructuresFinalPaper.exe
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\bin\Debug\DataStructuresFinalPaper.pdb
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\obj\Debug\DataStructuresFinalPaper.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\obj\Debug\DataStructuresFinalPaper.exe
+c:\users\hp\documents\visual studio 2017\Projects\DataStructuresFinalPaper\DataStructuresFinalPaper\obj\Debug\DataStructuresFinalPaper.pdb
